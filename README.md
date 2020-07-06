@@ -1,6 +1,6 @@
 # MTM-SVD method in python
 
-This repository contains scripts to apply the **MTM-SVD analysis method** to climate data and model outputs. It is a direct adaptation of the Matlab script developed by M. Correa-Ramirez. 
+This repository contains scripts to apply the **MTM-SVD analysis method in python** to climate data and model outputs. It is a direct adaptation of the Matlab script developed by M. Correa-Ramirez. 
 
 ![Example](/images/example.jpg)
 
