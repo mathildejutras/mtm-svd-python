@@ -11,6 +11,8 @@ This script was adapted by Mathilde Jutras at McGill University, Canada
 The script is available under the *GNU General Public License v3.0*.
 It may be used, copied, or redistributed as long as it is cited as follows:
 
+Mathilde Jutras. (2020, July 6). mathildejutras/mtm-svd-python: v1.0.0-alpha (Version v1.0.0). Zenodo. http://doi.org/10.5281/zenodo.3932319
+
 A description of the theoretical basis of the MTM-SVD toolbox and some
 implementation details can be found in:
 *Correa-Ramirez, M. & S. Hormazabal, 2012. "MultiTaper Method-Singular Value
