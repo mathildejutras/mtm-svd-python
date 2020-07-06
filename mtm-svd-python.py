@@ -14,7 +14,7 @@
 # and is available under the GNU General Public License v3.0
 # 
 # The script may be used, copied, or redistributed as long as it is cited as follow:
-# 
+# Mathilde Jutras. (2020, July 6). mathildejutras/mtm-svd-python: v1.0.0-alpha (Version v1.0.0). Zenodo. http://doi.org/10.5281/zenodo.3932319
 #
 # This software may be used, copied, or redistributed as long as it is not 
 # sold and that this copyright notice is reproduced on each copy made. 
